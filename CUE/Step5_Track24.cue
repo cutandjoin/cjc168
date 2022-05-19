@@ -68,4 +68,4 @@ FILE "Step5_Track24.mp3" MP3
     INDEX 01 00:22:28
   TRACK 23 AUDIO
     TITLE "Step5_Track24_23"
-    INDEX 01 00:25:75
+    INDEX 01 00:26:00
